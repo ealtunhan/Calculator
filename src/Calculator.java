@@ -7,10 +7,20 @@ public class Calculator {
     public static double subtract ( double num1, double num2){
         return num1 - num2;
     }
+
+
+
+
+
     public static double divide ( double num1, double num2){
+<<<<<<< HEAD
         double result = num1 / num2;
         return result;
     }
+=======
+        return num1 \ num2;  
+    } 
+>>>>>>> refs/remotes/origin/master
 // just doing something
     // again and again I'm trying
     
